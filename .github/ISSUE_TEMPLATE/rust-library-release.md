@@ -7,6 +7,10 @@ assignees: mulkieran
 
 ---
 
+Milestone:
+Changelog PR: 
+Prior release:
+
 - [ ] Upstream:
 - [ ] Fedora:
   - [ ] rawhide: 
