@@ -11,5 +11,6 @@ assignees: mulkieran
 - [ ] Fedora:
   - [ ] rawhide: 
     - [ ] verify stratisd scratch build succeeds in rawhide w/ new version:
+  - [ ] f43:
   - [ ] f42: 
   - [ ] f41:
