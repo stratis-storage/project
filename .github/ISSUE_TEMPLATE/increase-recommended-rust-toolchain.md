@@ -16,9 +16,7 @@ assignees: mulkieran
   
 - [ ] Give karma for CURRENT DEVELOPMENT ENVIRONMENT (Fedora)  Rust release:
 
-- [ ] Bump CURRENT DEVELOPMENT TOOLCHAIN  in GitHub workflows:
-
-Use sd: ```sd  "1.\d\d(.\d+)?  # CURRENT DEVELOPMENT RUST TOOLCHAIN" "<new tool chain>  # CURRENT DEVELOPMENT RUST TOOLCHAIN" .github/*/*```
+- [ ] Bump CURRENT DEVELOPMENT TOOLCHAIN  in GitHub workflows (```sd  "1.\d\d(.\d+)?  # CURRENT DEVELOPMENT RUST TOOLCHAIN" "<new tool chain>  # CURRENT DEVELOPMENT RUST TOOLCHAIN" .github/*/*```):
   - [ ] devicemapper-rs
   - [ ] libblkid-rs
   - [ ] libcryptsetup-rs
