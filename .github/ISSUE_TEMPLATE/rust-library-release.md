@@ -15,5 +15,5 @@ Prior release:
 - [ ] Fedora:
   - [ ] rawhide: 
     - [ ] verify stratisd scratch build succeeds in rawhide w/ new version:
+  - [ ] f44:
   - [ ] f43:
-  - [ ] f42:
